@@ -1,0 +1,6 @@
+name: example
+dependencies:
+  - numpy
+  - pandas
+  - seaborn
+  - hvplot
